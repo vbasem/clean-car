@@ -1,8 +1,8 @@
 module github.com/vbasem/clean-car
 
-go 1.13
+go 1.23.0
 
 require (
 	github.com/go-chi/chi v4.0.2+incompatible
-	golang.org/x/oauth2 v0.0.0-20190517181255-950ef44c6e07
+	golang.org/x/oauth2 v0.27.0
 )
